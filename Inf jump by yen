@@ -1,0 +1,6 @@
+local infinitejumpenable = true 
+game:getservice("userinputservice")jumprequest
+ if infinitejumpenable then
+      game.:getservice"player".local player character
+   end
+  end)
